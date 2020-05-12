@@ -3,10 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/tekit/OneDrive/Documents/NetBeansProjects/CRUD-RMI-CLIENTE/src/layout/janelaProduto.java</file>
-            <file>file:/C:/Users/tekit/OneDrive/Documents/NetBeansProjects/CRUD-RMI-CLIENTE/src/principal/IniciarCliente.java</file>
-            <file>file:/C:/Users/tekit/OneDrive/Documents/NetBeansProjects/CRUD-RMI-CLIENTE/src/views/listarProduto.java</file>
-            <file>file:/C:/Users/tekit/OneDrive/Documents/NetBeansProjects/CRUD-RMI-CLIENTE/src/views/adicionarProduto.java</file>
+            <file>file:/E:/_META/7o%20Semestre/-%20Sistemas%20Distribuidos/GIT/GGSD/Produtos-RMI/CRUD-RMI-CLIENTE/src/views/adicionarVeiculo.java</file>
+            <file>file:/E:/_META/7o%20Semestre/-%20Sistemas%20Distribuidos/GIT/GGSD/Produtos-RMI/CRUD-RMI-CLIENTE/src/views/adicionarLocal.java</file>
+            <file>file:/E:/_META/7o%20Semestre/-%20Sistemas%20Distribuidos/GIT/GGSD/Produtos-RMI/CRUD-RMI-CLIENTE/src/views/adicionarProduto.java</file>
+            <file>file:/E:/_META/7o%20Semestre/-%20Sistemas%20Distribuidos/GIT/GGSD/Produtos-RMI/CRUD-RMI-CLIENTE/src/views/adicionarHora.java</file>
+            <file>file:/E:/_META/7o%20Semestre/-%20Sistemas%20Distribuidos/GIT/GGSD/Produtos-RMI/CRUD-RMI-CLIENTE/src/views/adicionarData.java</file>
         </group>
     </open-files>
 </project-private>
